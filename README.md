@@ -59,7 +59,7 @@ First of all, let's add Basscss to our project. We can include a `link`
 tag directly to the source in between `<head>` and `</head>`:
 
 ```
-<link href="https://npmcdn.com/basscss@8.0.1/css/basscss.min.css" rel="stylesheet">
+<link href="https://unpkg.com/basscss@8.0.1/css/basscss.min.css" rel="stylesheet">
 ```
 
 That was easy. Now let's add a `div` to the body with a capped width at 300px. Usually we don't have to do this, but since
